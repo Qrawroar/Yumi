@@ -38,8 +38,8 @@ The goal of this CTF event was to solve 10 Valentine's-themed security challenge
 - Cryptographic weaknesses in CTFs often involve weak keys, missing signature validation, or predictable values that can be brute-forced.
 
 ### 🤖 AI / LLM Security
-- **Prompt Injection** — a vulnerability specific to AI chatbots and LLM-powered applications. By crafting specific input, an attacker can trick the model into ignoring its original instructions and revealing hidden data or performing unintended actions.
-- AI guardrails are only as strong as the design behind them — without strict input validation and privilege separation, even simple role-play tactics can bypass them.
+- **Prompt Injection** — a vulnerability specific to AI chatbots and LLM powered applications. By crafting specific input, an attacker can trick the model into ignoring its original instructions and revealing hidden data or performing unintended actions.
+- AI guardrails are only as strong as the design behind them  without strict input validation and privilege separation, even simple role-play tactics can bypass them.
 
 ### 🖥️ Web Application Vulnerabilities Summary
 
