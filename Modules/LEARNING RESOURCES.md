@@ -6,3 +6,4 @@
 ## https://hackthebox.com/
 ## https://obsidian.md/
 ## https://cryptohack.org/
+## https://Lakera.ai/
