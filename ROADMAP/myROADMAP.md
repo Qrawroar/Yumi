@@ -1,0 +1,3 @@
+FEBRUARY: Pre-Security on TryHackMe, Web-exploitation, and trying new things...
+MARCH: Gandalf on Lakera AI and OSINT. I didn’t document the OSINT part. I also tried new things since I didn’t create a concrete roadmap due to being unsure about my priorities. I experienced heavy burnout and a lack of motivation.
+APRIL: Continuation of the March roadmap.  
