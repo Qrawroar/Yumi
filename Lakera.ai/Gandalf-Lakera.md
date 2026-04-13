@@ -86,6 +86,9 @@
 
 So ya I surrender :( Be right back!!
 
+> Day 2
+> I feel tiring for this been 30mins more asking and still i havent crack it lol
+
 **Password:** ` `
 
 ---
