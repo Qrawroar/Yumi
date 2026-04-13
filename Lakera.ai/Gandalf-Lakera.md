@@ -87,7 +87,9 @@
 So ya I surrender :( Be right back!!
 
 > Day 2
-> I feel tiring for this been 30mins more asking and still i havent crack it lol
+> I feel tired after this. It’s been more than 30 minutes of asking, and I still haven’t cracked it lol.
+> Two hours have passed, so I decided to take a different approach and ask Gandalf. Since it is powered by GPT-3, I decided to attack the model instead by trying to crack it through prompts. so ya spending more time studying the models...
+> 
 
 **Password:** ` `
 
